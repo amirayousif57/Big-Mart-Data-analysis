@@ -1,0 +1,11 @@
+outlet_id,establishment_year,size,location_type,outlet_type
+OUT049,1999,Medium,Tier 1,Type 1
+OUT018,2009,Medium,Tier 3,Type 2
+OUT010,1998,,Tier 3,Grocery
+OUT013,1987,High,Tier 3,Type 1
+OUT027,1985,Medium,Tier 3,Type 3
+OUT045,2002,,Tier 2,Type 1
+OUT017,2007,,Tier 2,Type 1
+OUT046,1997,Small,Tier 1,Type 1
+OUT035,2004,Small,Tier 2,Type 1
+OUT019,1985,Small,Tier 1,Grocery
